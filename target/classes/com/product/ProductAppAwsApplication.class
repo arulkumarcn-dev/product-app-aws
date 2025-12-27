@@ -1,0 +1,12 @@
+Êþº¾   =    $com/product/ProductAppAwsApplication   java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this &Lcom/product/ProductAppAwsApplication; main ([Ljava/lang/String;)V
+     *org/springframework/boot/SpringApplication   run b(Ljava/lang/Class;[Ljava/lang/String;)Lorg/springframework/context/ConfigurableApplicationContext; args [Ljava/lang/String; MethodParameters 
+SourceFile ProductAppAwsApplication.java RuntimeVisibleAnnotations >Lorg/springframework/boot/autoconfigure/SpringBootApplication; !                /     *· ±    
+         
+         
+   	        6     *¸ W±    
+   
+    
+   
+ 
+                                
