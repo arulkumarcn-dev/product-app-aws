@@ -1,0 +1,34 @@
+Êþº¾   = O   com/product/dto/Product   java/lang/Object id J name Ljava/lang/String; quantity I price D <init> (JLjava/lang/String;ID)V Code
+   
+  ()V	    	     	   	 
+	   
+  LineNumberTable LocalVariableTable this Lcom/product/dto/Product; MethodParameters (Ljava/lang/String;ID)V getId ()J setId (J)V  getName ()Ljava/lang/String;  setName (Ljava/lang/String;)V 
+getQuantity ()I 
+setQuantity (I)V getPrice ()D setPrice (D)V toString   3 4 5 makeConcatWithConstants )(JLjava/lang/String;ID)Ljava/lang/String; equals (Ljava/lang/Object;)Z
+  9 ! " obj Ljava/lang/Object;  product 
+StackMapTable 
+SourceFile Product.java BootstrapMethods
+ B D  C $java/lang/invoke/StringConcatFactory 4 E ˜(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/invoke/CallSite; A H +Product [id=, name=, quantity=, price=] InnerClasses  K %java/lang/invoke/MethodHandles$Lookup  M java/lang/invoke/MethodHandles Lookup !                  	 
+    
+    
+  
+            *· *µ *-µ *µ *µ ±           
+   	 
+          4                         	 
+     
+              	   
+    
+       l     *· *+µ *µ *)µ ±              	         *                   	 
+     
+      
+     	   
+    
+      /     *· ±                         ! "     /     *´ ­                         # $     >     *µ ±       
+                                 % &     /     *´ °                         ' (     >     *+µ ±       
+    "  #                             ) *     /     *´ ¬           %              + ,     >     *µ ±       
+    (  )                	 
+      	    - .     /     *´ ¯           +              / 0     >     *'µ ±       
+    .  /                
+       
+    1 &     @     *´ *´ *´ *´ º 2  °           2              6 7     m     +À M*¶ 8,¶ 8”š ¬¬           6  7  8  9                 : ;    <   =    ü        :    >    ? @     F  G I   
+  J L N 
